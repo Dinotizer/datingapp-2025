@@ -1,8 +1,7 @@
-using System;
 using System.ComponentModel.DataAnnotations;
 
 namespace API.DTOs;
-
+// Data Transfer Object
 public class RegisterDto
 {
     [Required]
